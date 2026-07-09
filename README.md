@@ -2,8 +2,6 @@
 
 A full-featured blogging platform built with **React 19** and powered by **Appwrite** as the backend-as-a-service (BaaS). It supports user authentication, creating/editing/deleting posts, a rich-text editor, featured image uploads, and protected routes all wrapped in a clean Tailwind CSS UI.
 
-This project is part of the [Chai Aur React](https://github.com/hiteshchoudhary/chai-aur-react) learning series.
-
 ---
 
 ## ✨ Features
