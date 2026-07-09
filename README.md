@@ -1,6 +1,6 @@
 # 📝 MegaBlog
 
-A full-featured blogging platform built with **React 19** and powered by **Appwrite** as the backend-as-a-service (BaaS). It supports user authentication, creating/editing/deleting posts, a rich-text editor, featured image uploads, and protected routes — all wrapped in a clean Tailwind CSS UI.
+A full-featured blogging platform built with **React 19** and powered by **Appwrite** as the backend-as-a-service (BaaS). It supports user authentication, creating/editing/deleting posts, a rich-text editor, featured image uploads, and protected routes all wrapped in a clean Tailwind CSS UI.
 
 This project is part of the [Chai Aur React](https://github.com/hiteshchoudhary/chai-aur-react) learning series.
 
@@ -8,14 +8,14 @@ This project is part of the [Chai Aur React](https://github.com/hiteshchoudhary/
 
 ## ✨ Features
 
-- 🔐 **Authentication** — Email/password signup, login & logout powered by Appwrite Auth.
-- 🛡️ **Protected Routes** — Route-level access control via a reusable `AuthLayout` guard.
-- 📝 **Rich Text Editor** — Create posts with formatting using TinyMCE.
-- 🖼️ **Featured Image Uploads** — Upload, preview, and manage post images via Appwrite Storage.
-- 📚 **Post Management** — Create, read, update, and delete blog posts with draft (`active`/`inactive`) status support.
-- ⚡ **State Management** — Redux Toolkit with async thunks for fetching posts (global + per-user).
-- 🎨 **Responsive UI** — Styled with Tailwind CSS v4, fully responsive across devices.
-- 🧭 **Client-side Routing** — React Router v7 with dynamic slug-based post pages.
+- 🔐 **Authentication** : Email/password signup, login & logout powered by Appwrite Auth.
+- 🛡️ **Protected Routes** : Route-level access control via a reusable `AuthLayout` guard.
+- 📝 **Rich Text Editor** : Create posts with formatting using TinyMCE.
+- 🖼️ **Featured Image Uploads** : Upload, preview, and manage post images via Appwrite Storage.
+- 📚 **Post Management** : Create, read, update, and delete blog posts with draft (`active`/`inactive`) status support.
+- ⚡ **State Management** : Redux Toolkit with async thunks for fetching posts (global + per-user).
+- 🎨 **Responsive UI** : Styled with Tailwind CSS v4, fully responsive across devices.
+- 🧭 **Client-side Routing** : React Router v7 with dynamic slug-based post pages.
 
 ---
 
